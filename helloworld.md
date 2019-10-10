@@ -1,1 +1,0 @@
-griyn say: hello world!
