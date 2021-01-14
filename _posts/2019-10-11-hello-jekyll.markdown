@@ -7,10 +7,12 @@ categories: jekyll update
 
 # hello jekyll
 
-### 我创建bolg的过程：
+### 我创建blog的过程：
 * blog 搭建入门：https://www.zhihu.com/question/20962496
 * jekyll doc: https://jekyllrb.com/
 * jekyll doc.cn: http://jekyllcn.com/ (版本比较老了，不知道英文怎么翻译的时候看吧)
+
+<!--more-->
 
 ### 搭建过程中的一些疑问和解答：
 * What is gem?
