@@ -33,6 +33,9 @@ github_username:  griyn
 theme: minima
 plugins:
   - jekyll-feed
+  
+# excerpt
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default.
