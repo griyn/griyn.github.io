@@ -8,6 +8,7 @@ title: A guide to your digital life
       <h2> <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
       <p class="post-date">{{ post.date | date_to_string }}</p>
       {{ post.excerpt }}
+      {{ post.content | strip_html | truncatewords:50 }}
     </div>
     {% endfor %}
 </div>
