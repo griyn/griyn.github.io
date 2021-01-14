@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A guide to your digital life
+title: 传火祭祀场
 ---
 <div class="listing">
     {% for post in site.posts %}
