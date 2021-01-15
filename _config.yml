@@ -31,7 +31,7 @@ github_username:  griyn
 excerpt_separator: <!--more-->
 
 # Build settings
-theme: minima
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
 
